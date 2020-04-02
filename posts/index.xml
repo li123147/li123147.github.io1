@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 李小虎的博客</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 李小虎的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <lastBuildDate>Thu, 02 Apr 2020 16:31:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开播大吉</title>
+      <link>http://example.org/posts/%E5%BC%80%E6%92%AD%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Thu, 02 Apr 2020 16:31:09 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%BC%80%E6%92%AD%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我是卖竹鼠的，我的名字叫华龙兄弟</description>
+    </item>
+    
+  </channel>
+</rss>
